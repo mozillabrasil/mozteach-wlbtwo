@@ -3,3 +3,4 @@ Comece a ensinar as pessoas a ler, escrever e participar da web com atividades l
 
 ###Tradução de Atividades
 [Por que usamos a Web?](http://barrostecnologia.github.io/mozteach-wlbtwo/session01-why-do-we-use-the-web.html) [100%]
+[A Web é uma ferramenta para a aprendizagem](http://barrostecnologia.github.io/mozteach-wlbtwo/session02-the-web-is-a-tool-for-learning.html) [00%]
