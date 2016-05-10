@@ -21,3 +21,10 @@ Quer aprender a programar, entender questões de privacidade ou criação de con
 
 [The Planets](http://mozillabrasil.github.io/mozteach-wlbtwo/session06-the-planets-and-accessibility.html) [000%]
 
+###Ajude-nos a localizar!
+Você pode ajudar na localização/tradução das atividades de ensino e dessa forma os clubes de todo o Brasil podem ter acesso as atividades de ensino em seu idioma local.
+#### 1 Passo - Conhecimento em HTML
+Cada atividade no Web Literacy Basics II possui uma pagina escrita totalmente em HTML5, CSS e Javascript, para localizar as atividades basta ter conhecimento básico de HTML. 
+
+#### 2 Passo - Issues
+Cada atividade possui uma issue com link para a pagina de edição, lá basta começar a traduzir as atividades, não esqueça de se atribuir na issue da atividade que estiver localizando.
