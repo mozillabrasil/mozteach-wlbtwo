@@ -7,7 +7,7 @@ Quer aprender a programar, entender questões de privacidade ou criação de con
 
 [The Web is a Tool for Learning](http://mozillabrasil.github.io/mozteach-wlbtwo/session02-the-web-is-a-tool-for-learning.html) [000%]
 
-[Project Playlist](http://mozillabrasil.github.io/mozteach-wlbtwo/bridge01-project-playlist.html) [000%]
+[Projeto Playlist](http://mozillabrasil.github.io/mozteach-wlbtwo/bridge01-project-playlist.html) [100%]
 
 [Welcome to My Mixtape](http://mozillabrasil.github.io/mozteach-wlbtwo/session03-welcome-to-my-mixtape.html) [000%]
 
