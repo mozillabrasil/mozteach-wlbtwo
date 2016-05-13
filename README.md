@@ -3,7 +3,7 @@ Comece a ensinar as pessoas a ler, escrever e participar da web com atividades l
 Quer aprender a programar, entender questões de privacidade ou criação de conteúdo web abertamente licenciado? Acreditamos que o ensino da web deve ser divertido e envolvente!
 
 ###Tradução de Atividades
-[Por que usamos a Web?](http://barrostecnologia.github.io/mozteach-wlbtwo/session01-why-do-we-use-the-web.html) [100%]
+[Por que usamos a Web?](http://mozillabrasil.github.io/mozteach-wlbtwo/session01-why-do-we-use-the-web.html) [100%]
 
 [The Web is a Tool for Learning](http://mozillabrasil.github.io/mozteach-wlbtwo/session02-the-web-is-a-tool-for-learning.html) [000%]
 
