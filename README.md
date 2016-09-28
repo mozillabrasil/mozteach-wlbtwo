@@ -5,7 +5,7 @@ Quer aprender a programar, entender questões de privacidade ou criação de con
 ###Tradução de Atividades
 [Por que usamos a Web?](http://mozillabrasil.github.io/mozteach-wlbtwo/session01-why-do-we-use-the-web.html) [100%]
 
-[The Web is a Tool for Learning](http://mozillabrasil.github.io/mozteach-wlbtwo/session02-the-web-is-a-tool-for-learning.html) [000%]
+[The Web is a Tool for Learning](http://mozillabrasil.github.io/mozteach-wlbtwo/session02-the-web-is-a-tool-for-learning.html) [100%]
 
 [Projeto Playlist](http://mozillabrasil.github.io/mozteach-wlbtwo/bridge01-project-playlist.html) [100%]
 
