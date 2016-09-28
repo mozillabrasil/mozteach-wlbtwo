@@ -15,7 +15,7 @@ Quer aprender a programar, entender questões de privacidade ou criação de con
 
 [#allthestickerz](http://mozillabrasil.github.io/mozteach-wlbtwo/session04-allthestickerz.html) [000%]
 
-[Who Am I?](http://mozillabrasil.github.io/mozteach-wlbtwo/bridge03-who-am-i.html) [000%]
+[Who Am I?](http://mozillabrasil.github.io/mozteach-wlbtwo/bridge03-who-am-i.html) [100%]
 
 [Fair Use Free-for-All](http://mozillabrasil.github.io/mozteach-wlbtwo/session05-fair-use-free-for-all.html) [000%]
 
